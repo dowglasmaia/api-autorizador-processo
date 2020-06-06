@@ -8,11 +8,11 @@
 
 # Endpoints da API e Doc em Swagger
 
-* **Start o Projeto e acessar a url no browser com endereço de seu 'servidor/swagger-ui.html' .** 
+* **Start o Projeto e acesse a url no browser com endereço de seu 'servidor/swagger-ui.html' .** 
 * **Exe.: http://localhost:8080/swagger-ui.html**
 
 # Acesso a Base de Dados em Memória Local - "H2Data-Base"
-* http://localhost:8080/h2-console
+* Start o Projeto e acesse a | http://localhost:8080/h2-console | no browser.
 
 * **Linkedin**
 * www.linkedin.com/in/dowglasmaia
