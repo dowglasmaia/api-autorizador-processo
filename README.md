@@ -13,5 +13,5 @@
 * **Exe.: http://localhost:8080/swagger-ui.html**
 
 #
-# Acessao a Base de Dados em Memoria Local
+# Acesso a Base de Dados em Memória Local - "H2Data-Base"
 * http://localhost:8080/h2-console
