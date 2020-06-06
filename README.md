@@ -9,6 +9,9 @@
 * 4-Consultar procedimentos autorizados.
 
 # Endpoints da API e Doc em Swagger
-* **Start o Projeto e acessar a url no browser com endereço do servidor +/swagger-ui.html.** 
+* **Start o Projeto e acessar a url no browser com endereço de seu 'servidor/swagger-ui.html' .** 
 * **Exe.: http://localhost:8080/swagger-ui.html**
 
+#
+# Acessao a Base de Dados em Memoria Local
+* http://localhost:8080/h2-console
