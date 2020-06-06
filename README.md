@@ -12,7 +12,7 @@
 * **Exe.: http://localhost:8080/swagger-ui.html**
 
 # Acesso a Base de Dados em Memória Local - "H2Data-Base"
-* Start o Projeto e acesse a | http://localhost:8080/h2-console | no browser.
+* Start o Projeto e acesse a url http://localhost:8080/h2-console no browser.
 
 * **Linkedin**
 * www.linkedin.com/in/dowglasmaia
