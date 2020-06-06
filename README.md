@@ -1,9 +1,9 @@
 # API Back-End -  Autorizador de Processos Médicos
 
 # Funcionalidades da API
-* 1-Cadastrar de novos procedimento.
-* 2-Consultar dos procedimentos cadastrados na base de dados.
-* 3-Autorizar a realizações de procedimentos médicos com critérios de validação por idade e sexo de paciente.
+* 1-Cadastrar novos procedimento.
+* 2-Consultar procedimentos cadastrados na base de dados.
+* 3-Autorizar as realizações de procedimentos médicos com critérios de validação por idade e sexo de paciente.
 * 4-Consultar procedimentos autorizados.
 
 # Endpoints da API e Doc em Swagger
